@@ -1,0 +1,11 @@
+﻿  kalman.cpp
+d:\c#code\projects\kalman\kalman\kalman.cpp(16): warning C4326: “main”的返回类型应为“int”而非“void”
+d:\c#code\projects\kalman\kalman\kalman.cpp(18): warning C4305: “初始化”: 从“double”到“float”截断
+d:\c#code\projects\kalman\kalman\kalman.cpp(19): warning C4305: “初始化”: 从“double”到“float”截断
+d:\c#code\projects\kalman\kalman\kalman.cpp(20): warning C4305: “初始化”: 从“double”到“float”截断
+d:\c#code\projects\kalman\kalman\kalman.cpp(26): warning C4305: “初始化”: 从“double”到“float”截断
+d:\c#code\projects\kalman\kalman\kalman.cpp(31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c#code\projects\kalman\kalman\kalman.cpp(38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c#code\projects\kalman\kalman\kalman.cpp(46): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\c#code\projects\kalman\kalman\kalman.cpp(47): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  kalman.vcxproj -> D:\C#code\Projects\kalman\Debug\kalman.exe
